@@ -1,4 +1,4 @@
-# The Basics
+# Chapter 1 - The Basics
 
 In this chapter, we are going to learn all about variables in swift.
 
